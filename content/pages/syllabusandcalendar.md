@@ -180,27 +180,27 @@ Pantomime and Physical Comedy
 
 _Screening_
 
-“{{% resource_link "a6bdec33-b527-4101-b21b-839fb5bc9f25" "Charlie Chaplin - A Night In The Show (1915)" %}}.” YouTube. 
+“{{% resource_link "f6e59e45-7c8f-404d-a2ca-73a4a3d468ec" "Charlie Chaplin - A Night In The Show (1915)" %}}.” YouTube. 
 
-“{{% resource_link "0230c3c6-e05b-4755-9d7d-4d16bc0c75b5" "Charlie Chaplin The Pawn Shop (1916)" %}}.” YouTube.
+“{{% resource_link "f8fc3b3e-8e64-4114-83f2-7f1fa6b70e22" "Charlie Chaplin The Pawn Shop (1916)" %}}.” YouTube.
 
-“{{% resource_link "6ee1f5ed-febf-46d9-9046-5f3e6d82dd93" "Charlie Chaplin Easy Street (1917)" %}}.” YouTube.
+“{{% resource_link "46493e3a-8c8b-4846-8e54-8bdda1f38537" "Charlie Chaplin Easy Street (1917)" %}}.” YouTube.
 
-“{{% resource_link "0c67e6bb-2966-4f22-ab6e-7b1dc0d17e59" "Buster Keaton The Playhouse (1921)" %}}.” YouTube.
+“{{% resource_link "b2aec313-ed61-4e0c-a17e-eb2db8cb76c6" "Buster Keaton The Playhouse (1921)" %}}.” YouTube.
 
-“{{% resource_link "726fada3-21bb-4d3e-9457-be53a0d72cc0" "Jerry Lewis - The Errand Boy (1961) Pantomime" %}}.” YouTube.
+“{{% resource_link "0b70f62f-9e93-4abc-aac3-7be676068889" "Jerry Lewis - The Errand Boy (1961) Pantomime" %}}.” YouTube.
 
-“{{% resource_link "d0809edf-df73-4c18-8e0e-586413937b09" "Liza Minnelli Tries to Turn Off a Lamp - SNL" %}}.” YouTube.
+“{{% resource_link "049708bf-9ee8-4515-8436-cc5826930617" "Liza Minnelli Tries to Turn Off a Lamp - SNL" %}}.” YouTube.
 
-“{{% resource_link "f48ba23d-9dc0-427a-b911-dc7d05c6328e" "Julie Atlas Muz / King Tut's Wah Wah Hut Live @ Whitney Museum 2015" %}}.” YouTube.
+“{{% resource_link "34ce802a-5538-48d2-8467-bbc605d9d3ad" "Julie Atlas Muz / King Tut's Wah Wah Hut Live @ Whitney Museum 2015" %}}.” YouTube.
 
-“{{% resource_link "d293592d-3309-47aa-bb46-d9fb3be9957e" "Matt Foley: Van Down By The River - SNL" %}}.” YouTube.
+“{{% resource_link "1e87479e-662c-4218-af85-3c6bf16a0e58" "Matt Foley: Van Down By The River - SNL" %}}.” YouTube.
 
-“{{% resource_link "8fe5bde2-0b36-4770-9313-3f56b2bb9487" "Zach Galifianakis on physical comedy" %}}.” YouTube.
+“{{% resource_link "97ab3571-2134-4694-9e04-0add8a2aa1f5" "Zach Galifianakis on physical comedy" %}}.” YouTube.
 
-“{{% resource_link "f28c352a-f06a-4628-b450-7af8f166944b" "The Big Baby Makes the Sale - SNL" %}}.” YouTube.
+“{{% resource_link "7f87508c-5915-4d76-8fd7-11762682675f" "The Big Baby Makes the Sale - SNL" %}}.” YouTube.
 
-“{{% resource_link "adc0843e-bb08-4a97-a947-708671cf5f2d" "Spartan Cheerleaders at a Chess Tournament - SNL" %}}.” YouTube.
+“{{% resource_link "8df0e3a4-27f7-4611-b0c1-987aedeef8c1" "Spartan Cheerleaders at a Chess Tournament - SNL" %}}.” YouTube.
 
 
 {{< tdclose >}}
@@ -217,17 +217,17 @@ Anarchistic Comedy, Dada and Other Nonsense
 
 _Screening_
 
-_{{% resource_link "348915c2-0fda-4efd-bf74-943f7b70ae6b" "Monkey Business" %}}_. Directed by Norman Z. McLeod. Black and White, 77 min. 1931.
+_{{% resource_link "5a1b8b2f-de89-4297-b190-fb8f441acae9" "Monkey Business" %}}_. Directed by Norman Z. McLeod. Black and White, 77 min. 1931.
 
-“{{% resource_link "b675781a-6c52-4188-88db-d6e131ddf384" "Monty Python's flying circus - Interview and salesman" %}}.” YouTube.
+“{{% resource_link "ac539cb1-581f-4e1b-81fd-b83ee3c924c4" "Monty Python's flying circus - Interview and salesman" %}}.” YouTube.
 
-“{{% resource_link "b466037c-23c9-4e95-9609-a75b70fa64a5" "Confuse-A-Cat ~ Monty Python's Flying Circus" %}}.” YouTube.
+“{{% resource_link "6e39eeb9-0c38-4167-b988-adfc635a5aec" "Confuse-A-Cat ~ Monty Python's Flying Circus" %}}.” YouTube.
 
-“{{% resource_link "3c67597c-35dc-425c-af16-9c41518625ce" "Monty Python - How Not to Be Seen (Original version)" %}}.” YouTube.
+“{{% resource_link "f52c7507-d426-48e0-bd39-6db2bb8509da" "Monty Python - How Not to Be Seen (Original version)" %}}.” YouTube.
 
-“{{% resource_link "5b8895cb-d317-42c3-99b7-b8d3c71b5665" "Reggie Watts disorients you in the most entertaining way" %}}.” YouTube.
+“{{% resource_link "c2cac24f-5155-4241-b22c-d5374a4b0ff6" "Reggie Watts disorients you in the most entertaining way" %}}.” YouTube.
 
-“{{% resource_link "9b1069a4-d1f2-4d59-b36d-fad7faecaf5b" "Reggie Watts: Fuck Shit Stack" %}}.” YouTube.
+“{{% resource_link "23ff5eff-8402-47fb-9254-1cf20809421a" "Reggie Watts: Fuck Shit Stack" %}}.” YouTube.
 
 
 {{< tdclose >}}
@@ -251,7 +251,7 @@ Stand Up Comedy
 
 Concrete Comedy
 
-_Guest lecturer: {{% resource_link "d09878f8-4145-4724-a12b-50e0ebc80b23" "Michael Portnoy" %}}_
+_Guest lecturer: {{% resource_link "c0607407-0f45-4193-8728-f34383fb8c9d" "Michael Portnoy" %}}_
 
 
 {{< tdclose >}}
